@@ -1,6 +1,3 @@
-Certainly! Here’s a sample **README** for the **Task Management Application** project:
-
----
 
 # Task Management Application (SOLID Principles with Express.js and MongoDB)
 
